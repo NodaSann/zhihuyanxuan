@@ -2,7 +2,7 @@
 # 文章目录通过 module mounts 挂载为 content，仓库根目录保持原浏览结构不变
 # 文章页只内建开头 1500 字摘要（索引卡片），全文由前端从 GitHub raw 按需拉取，
 # Pages 发布体积不随正文增长（详见 docs/存储与扩容预案.md）
-baseURL = 'https://ygxiuming.github.io/Zhihu-Salt-Selected-Articles-Collection/'
+baseURL = 'https://nodasann.github.io/zhihuyanxuan/'
 languageCode = 'zh-cn'
 defaultContentLanguage = 'zh-cn'
 title = '知乎盐选文章收藏'
@@ -21,8 +21,8 @@ pluralizeListTitles = false
 [params]
   description = '知乎盐选文章收集与在线阅读，数据来自「我不是盐神」「知乎搬运工」「盐选文库」「语雀盐选库」，仅供个人收藏阅读'
   github = 'https://github.com/ygxiuming/Zhihu-Salt-Selected-Articles-Collection'
-  repoOwner = 'ygxiuming'
-  repoName = 'Zhihu-Salt-Selected-Articles-Collection'
+  repoOwner = 'NodaSann'
+  repoName = 'zhihuyanxuan'
   repoBranch = 'main'
 
 [module]
